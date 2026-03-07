@@ -1,1 +1,27 @@
+# Environment variables - NEVER push this
 .env
+
+# Virtual environment
+venv/
+env/
+
+# FAISS vector store - auto generated
+faiss_legal_index/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+*.log

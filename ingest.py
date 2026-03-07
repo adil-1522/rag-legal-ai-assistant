@@ -15,7 +15,7 @@ def load_and_chunk(file_path: str):
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=1000,
         chunk_overlap=200,
-        sepeartors = ["\n\n", "\n", " ", ""]
+        separators = ["\n\n", "\n", " ", ""]
 
     )
 
