@@ -1,3 +1,10 @@
+# ⚖️ Legal AI Assistant — RAG-based Contract Intelligence System
+
+> Extract structured legal insights (risks, obligations, clauses) from contracts using LLMs + RAG.
+
+🚀 Built an end-to-end AI system that transforms unstructured legal documents into actionable structured data using Retrieval-Augmented Generation.
+
+
 # ⚖️ Legal AI Assistant
 
 A domain-specific AI assistant that analyzes legal contracts and extracts structured insights like clauses, risks, parties, and obligations — built using RAG (Retrieval Augmented Generation) with LangChain.
